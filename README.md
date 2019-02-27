@@ -1,3 +1,6 @@
+## Added bash script to address portrait bug in 10.14.x
+## Script added to startup items
+
 
 Display Rotation for the Mac: fb-rotate
 =======================================
